@@ -7,9 +7,8 @@ import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 @Component
-@Order(1)
 @Slf4j
-public class EurekaSendHeartBeat implements Runnable, CommandLineRunner {
+public class EurekaSendHeartBeat implements Runnable {
 
     public EurekaSendHeartBeat() {
         Thread thread = new Thread(this);
@@ -30,11 +29,6 @@ public class EurekaSendHeartBeat implements Runnable, CommandLineRunner {
                 log.info("Something was wrong. The request is not responding or is not available.");
             }
         }
-    }
-
-    @Override
-    public void run(String... args) throws Exception {
-        this.run();
     }
 }
 
