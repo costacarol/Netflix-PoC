@@ -1,0 +1,27 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$register_eureka_feign-poc/.gitignore,5/7/57073fd884cd6210b5dccbb060f2a4d1357397af
+s
+Cregister_eureka_feign-poc/src/main/resources/application.properties,9/2/926a2b83704f5ca07f5497536cadbf95bd6ed289
+V
+&register_eureka_feign-poc/build.gradle,f/4/f409f54b2305a9483aba355bdd51c1ea64d02594
+Š
+Zregister_eureka_feign-poc/src/test/java/com/example/feignpoc/FeignPocApplicationTests.java,b/4/b4d5ca17d620fc76e3456e0fc99cc6c95e70f5f4
+r
+Bregister_eureka_feign-poc/gradle/wrapper/gradle-wrapper.properties,6/9/692f68881ce58b02ae6edfa828b4193d108708de
+Q
+!register_eureka_feign-poc/gradlew,d/7/d7e33b0a016f5c3d8939f5203fe5e1f80b01b2dd
+U
+%register_eureka_feign-poc/gradlew.bat,f/3/f33a7d31b1b03417d1d66a57934481f9141b8e75
+Y
+)register_eureka_feign-poc/settings.gradle,c/0/c06329b2e04386d8c1cbf08b80737d5af78e36fd
+€
+Pregister_eureka_feign-poc/src/main/java/com/example/feignpoc/EurekaRegister.java,6/b/6b38a17901fb2779052c632c592a65794a51f3bf
+ƒ
+Sregister_eureka_feign-poc/src/main/java/com/example/feignpoc/RegisterOnStartup.java,7/0/70ae593c1fb4e0359f3eae6f776873f1f49b5aad
+…
+Uregister_eureka_feign-poc/src/main/java/com/example/feignpoc/FeignPocApplication.java,6/a/6a0d38837fc2556388973592d081a3277fec96d5
+‡
+Wregister_eureka_feign-poc/src/main/java/com/example/feignpoc/DefaultDataCenterInfo.java,6/4/64230a87cdd3d4829b6f74e4d2532fe37da1e5ed
