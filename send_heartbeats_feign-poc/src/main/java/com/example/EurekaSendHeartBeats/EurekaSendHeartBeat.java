@@ -24,6 +24,7 @@ public class EurekaSendHeartBeat implements Runnable, CommandLineRunner {
             try {
                 send.sendHeartBeat("appname", "appId");
                 Thread.sleep(30000);
+                log.info("Service is UP!")
             } catch (Exception e) {
                 e.printStackTrace();
                 log.info("Something was wrong. The request is not responding or is not available.");
