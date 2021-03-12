@@ -26,7 +26,7 @@ public class EurekaSendHeartBeat implements Runnable, CommandLineRunner {
                 Thread.sleep(30000);
             } catch (Exception e) {
                 e.printStackTrace();
-                log.info("Something was wrong. The method called is not responding.");
+                log.info("Something was wrong. The request is not responding or is not available.");
             }
         }
     }
